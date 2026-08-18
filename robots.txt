@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-uxg5xb.pulaucuan.sbs/sitemap.xml
